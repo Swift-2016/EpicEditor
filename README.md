@@ -1,6 +1,6 @@
 # ![EpicEditor](http://epiceditor.com/docs/images/epiceditor-logo.png)
 
-## An Embeddable JavaScript Markdown Editor
+## 一种嵌入式JavaScript markdown编辑器
 
 EpicEditor is an embeddable JavaScript [Markdown](http://daringfireball.net/projects/markdown/) editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
 
